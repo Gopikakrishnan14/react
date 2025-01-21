@@ -29,7 +29,7 @@ const Home = () => {
    
   return (
     <div>
-        <h2>welcome   { name}</h2>
+        <h2>welcome  to react  { name}</h2>
                 <h2 style={({color:'black',backgroundColor:'blueviolet'})}>FOOD TABLE</h2> 
                 * <Button variant="contained" onClick={changeValue}>Change</Button>
                 <Button variant="contained" onClick={changeCount}>Count</Button>
